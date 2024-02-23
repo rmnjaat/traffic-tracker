@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="transBluePoly"><LineStyle><width>1.5</width><color>501400E6</color></LineStyle></Style><Placemark>
+<name>20.118.40.6</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-97.822000,37.751000
+70.983300,20.700000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>20.118.40.6</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-97.822000,37.751000
+70.983300,20.700000</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="transBluePoly"><LineStyle><width>1.5</width><color>501400E6</color></LineStyle></Style><Placemark>
+<name>20.118.40.6</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-97.822000,37.751000
+70.983300,20.700000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>20.118.40.6</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-97.822000,37.751000
+70.983300,20.700000</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="transBluePoly"><LineStyle><width>1.5</width><color>501400E6</color></LineStyle></Style><Placemark>
+<name>20.118.40.6</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-97.822000,37.751000
+70.983300,20.700000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>20.118.40.6</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-97.822000,37.751000
+70.983300,20.700000</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="transBluePoly"><LineStyle><width>1.5</width><color>FF00FFFF</color></LineStyle></Style><Placemark>
+<name>20.118.40.6</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-97.822000,37.751000
+70.983300,20.700000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>20.118.40.6</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-97.822000,37.751000
+70.983300,20.700000</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="transBluePoly"><LineStyle><width>1.5</width><color>501400E6</color></LineStyle></Style><Placemark>
+<name>20.118.40.6</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-97.822000,37.751000
+70.983300,20.700000</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>20.118.40.6</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-97.822000,37.751000
+70.983300,20.700000</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>
+
